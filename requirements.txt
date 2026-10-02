@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+torch
+torchvision
+numpy
+Pillow
+fastapi
+uvicorn
+python-multipart
+imageio-ffmpeg

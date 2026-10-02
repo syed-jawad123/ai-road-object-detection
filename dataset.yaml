@@ -1,0 +1,14 @@
+# Dataset configuration for custom YOLOv8 training
+path: ./dataset          # Dataset root directory
+train: images/train      # Training images (80%)
+val:   images/val        # Validation images (20%)
+
+# Number of classes
+nc: 4
+
+# Class names
+names:
+  0: car
+  1: person
+  2: motorcycle
+  3: truck
